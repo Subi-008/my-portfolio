@@ -33,7 +33,7 @@ const Hero = () => {
 
               <div className="flex gap-3">
                 <a
-                  href="https://github.com/subiksha"
+                  href="https://github.com/Subi-008"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white rounded-lg shadow-md hover:shadow-lg hover:scale-110 transition-all duration-300 text-gray-700 hover:text-blue-600"
@@ -41,7 +41,7 @@ const Hero = () => {
                   <Github size={24} />
                 </a>
                 <a
-                  href="https://linkedin.com/in/Subiksha_S"
+                  href="https://www.linkedin.com/in/subiksha-s-081b04329"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white rounded-lg shadow-md hover:shadow-lg hover:scale-110 transition-all duration-300 text-gray-700 hover:text-blue-600"
