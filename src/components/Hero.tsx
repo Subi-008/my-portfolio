@@ -62,7 +62,7 @@ const Hero = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-full blur-2xl opacity-30 animate-pulse"></div>
               <img
-                src="/SUBI.jpg"
+                src="SUBI.jpg"
                 alt="Subiksha S"
                 className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full object-cover shadow-2xl border-4 border-white"
               />
