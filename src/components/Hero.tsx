@@ -23,7 +23,7 @@ const Hero = () => {
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="/subi s clg resume.pdf"
+                href="https://drive.google.com/file/d/1ZrVfHCk5V8yO1mrtyK-Ghik3fVcpJqp9/view?usp=sharing"
                 download
                 className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-600 to-cyan-500 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg hover:scale-105 transition-all duration-300"
               >
